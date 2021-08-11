@@ -18,5 +18,5 @@ This is not imagined to be a 'black box' type of solution. This model can help i
 
 
 #### Additional materials
-.pptx is provided
-What-If analysis in Tableau - <<https://public.tableau.com/app/profile/marko.uskokovic/viz/HRWhatifModelingv2/FinalDashboard>>
+- .pptx is provided
+- What-If analysis in Tableau - https://public.tableau.com/app/profile/marko.uskokovic/viz/HRWhatifModelingv2/FinalDashboard
