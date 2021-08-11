@@ -1,2 +1,10 @@
-# People_Analytics_Self-Storage_company_Modeling
-Classification model for a self-storage company to improve top talent retention &amp; workforce planning efforts.
+# People Analytics: Modeling(Classification)
+
+## Client: Top 3 self-storage company
+
+## Project goal: 
+
+Build a classification model to improve top talent retention and workforce planning efforts.
+
+## Data available:
+~18K rows & 40 columns
